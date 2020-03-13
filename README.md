@@ -1,2 +1,2 @@
-# e-commerce-website
-Online Store E-Commerce Responsive Website using Bootstrap 4
+# Blogger-website
+Online Blogger Responsive Website using Bootstrap 4
